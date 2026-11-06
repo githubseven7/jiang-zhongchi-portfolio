@@ -1,0 +1,128 @@
+{
+  "name": "江仲池",
+  "bio": "我是江仲池，视频设计师，毕业于广西师范大学动画专业。工作涉及电商与信息流视频、纪录片后期，以及 AI 辅助内容制作。",
+  "skills": [
+    "Adobe Premiere Pro",
+    "Adobe After Effects",
+    "视频剪辑",
+    "后期制作"
+  ],
+  "experience": [
+    {
+      "title": "广东凡易紧固件有限公司",
+      "period": "2023.05–至今",
+      "role": "市场部 · 剪辑师",
+      "description": "制作过播放量超百万的视频。负责公司整体设计工作，运用 AI 制作并运营公司视频账号、撰写文章及完成部分设计。"
+    },
+    {
+      "title": "上海乐蜀网络科技股份有限公司",
+      "period": "2021.03–2022.06",
+      "role": "剪辑师 · 电商中心",
+      "description": "基本每月爆款消耗超 300 万。多条内容为公司新增用户超 1 万。"
+    },
+    {
+      "title": "北京睛准科技有限公司",
+      "period": "2020.04–2020.12",
+      "role": "视频编辑 · 创意部",
+      "description": "每月多次实现单条视频消耗超 100 万。统筹视频部门工作。"
+    },
+    {
+      "title": "上海彼金文化传播有限公司",
+      "period": "2019.05–2020.02",
+      "role": "视频编辑",
+      "description": "首条拍摄的纪录片为 B 站账号带来 20 万新增粉丝，视频一周内播放量达 100 万。提出新拍摄思路，推动公司拓展游戏赛事以外的拍摄业务。"
+    },
+    {
+      "title": "上海柠七市场营销策划有限公司",
+      "period": "2018.10–2019.04",
+      "role": "视频编辑",
+      "description": "配合运营管理账号，单周最高涨粉 13 万。"
+    },
+    {
+      "title": "上海七加电子商务有限公司",
+      "period": "2017.07–2018.09",
+      "role": "视频编辑 · 传媒策划",
+      "description": "独立制作产品主图及视频。通过视频引流带动部分产品销售额大幅上涨，维系部分长期客户并吸引新客户。提出中国风概念，推动店铺产品迭代。"
+    }
+  ],
+  "email": "",
+  "wechat": "",
+  "works": [
+    {
+      "title": "明日之星",
+      "category": "商业广告",
+      "cover": "assets/rising-stars.jpg",
+      "video": "assets/rising-stars.mp4"
+    },
+    {
+      "title": "跃动上海",
+      "category": "商业广告",
+      "cover": "assets/shanghai-motion.jpg",
+      "video": "assets/shanghai-motion.mp4"
+    },
+    {
+      "title": "OQS一周年摄影展",
+      "category": "活动宣传",
+      "cover": "assets/oqs-anniversary.jpg",
+      "video": "assets/oqs-anniversary.mp4"
+    },
+    {
+      "title": "遇见金贵——燕窝新品发布会",
+      "category": "活动宣传",
+      "cover": "assets/jingui-launch.jpg",
+      "video": "assets/jingui-launch.mp4"
+    },
+    {
+      "title": "马术主题展宣传片",
+      "category": "活动宣传",
+      "cover": "assets/equestrian-exhibition.jpg",
+      "video": "assets/equestrian-exhibition.mp4"
+    },
+    {
+      "title": "民办东鼎外国语学校2025秋季运动会",
+      "category": "活动宣传",
+      "cover": "assets/dongding-sports-2025.jpg",
+      "video": "assets/dongding-sports-2025.mp4"
+    },
+    {
+      "title": "市运会",
+      "category": "活动宣传",
+      "cover": "assets/city-games.jpg",
+      "video": "assets/city-games.mp4"
+    },
+    {
+      "title": "非遗—罗店龙船",
+      "category": "纪录片",
+      "cover": "assets/luodian-dragon-boat.jpg",
+      "video": "assets/luodian-dragon-boat.mp4"
+    },
+    {
+      "title": "药演人生（试看）",
+      "category": "纪录片",
+      "cover": "assets/yaoyan-preview.jpg",
+      "video": "assets/yaoyan-preview.mp4"
+    },
+    {
+      "title": "手狮舞",
+      "category": "纪录片",
+      "cover": "assets/hand-lion-dance.jpg",
+      "video": "assets/hand-lion-dance.mp4"
+    },
+    {
+      "title": "elis 品牌短片",
+      "category": "品牌短片",
+      "cover": "assets/elis-brand.jpg",
+      "video": "assets/elis-brand.mp4"
+    },
+    {
+      "title": "彭昱畅 送礼物VLOG（导演版） — 欧莱雅",
+      "category": "品牌短片",
+      "cover": "assets/loreal-gift-vlog.jpg",
+      "video": "assets/loreal-gift-vlog.mp4"
+    }
+  ],
+  "birthDate": "1995-01-08",
+  "phone": "17316802497",
+  "avatar": "assets/avatar.jpg",
+  "wechatQr": "assets/wechat-qr.png"
+}

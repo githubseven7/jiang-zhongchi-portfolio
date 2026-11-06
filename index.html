@@ -1,0 +1,55 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="江仲池 · 视频设计师作品集与在线简历"><title>江仲池 · 视频设计师作品集</title><link rel="stylesheet" href="style.css"><script defer src="app.js"></script></head>
+<body>
+<header class="top">
+  <a href="#" class="logo">江仲池 <span>／</span> PORTFOLIO</a>
+  <nav aria-label="主导航"><a href="#about">经历</a><a href="#works">作品</a><a href="#strengths">能力</a><a href="#contact">联系 ↗</a></nav>
+</header>
+<main>
+  <section id="about" aria-labelledby="editor-name">
+    <div class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">01 / 个人经历</p>
+        <h1 id="editor-name">江仲池</h1>
+        <p class="hero-role">视频设计师</p>
+        <div class="profile">
+          <div id="avatar" class="avatar" aria-hidden="true"></div>
+          <div class="profile-copy">
+            <p id="bio"></p><p id="birth-date" class="profile-meta" hidden></p>
+            <div id="profile-contact"></div>
+          </div>
+        </div>
+        <div class="hero-actions"><a class="primary" href="#works">查看作品 ↓</a><a class="secondary" href="#contact">联系方式 ↗</a></div>
+      </div>
+    </div>
+    <div class="section">
+    <h3 class="subhead">项目数据</h3>
+    <div class="metrics">
+      <article><strong>300 万+</strong><p>基本每月爆款消耗</p><small>上海乐蜀网络</small></article>
+      <article><strong>1 万+</strong><p>多条内容为公司新增用户</p><small>上海乐蜀网络</small></article>
+      <article><strong>100 万</strong><p>首条纪录片一周内播放量</p><small>上海彼金文化</small></article>
+    </div>
+    <h3 class="subhead">工作经历</h3><div id="experience"></div>
+    </div>
+  </section>
+  <section id="works" class="section">
+    <div class="section-head"><div><p class="eyebrow">02 / SELECTED WORK</p><h2>精选部分作品</h2></div><p id="work-count" class="muted" aria-live="polite"></p></div>
+    <div class="filters" id="filters" aria-label="作品分类"></div><div class="grid" id="grid"></div>
+  </section>
+  <section id="strengths" class="section">
+    <p class="eyebrow">03 / CAPABILITIES</p><h2>个人优势</h2>
+    <div class="capabilities">
+      <article><span>01</span><h3>视频剪辑与后期</h3><p>使用 Premiere Pro 和 After Effects 完成剪辑及后期制作。</p></article>
+      <article><span>02</span><h3>面向投放的视频设计</h3><p>参与电商与信息流视频项目，多条内容实现百万级消耗。</p></article>
+      <article><span>03</span><h3>AI 内容制作与设计</h3><p>将 AI 用于视频账号内容、文章和部分设计工作。</p></article>
+    </div>
+    <div id="skills" class="skills" aria-label="技能与工具"></div>
+  </section>
+  <section id="contact" class="contact">
+    <div class="contact-inner">
+      <p class="eyebrow">04 / CONTACT</p><h2>来聊聊吧<span>~</span></h2>
+      <div id="contacts"></div><button id="share" type="button">复制作品集链接 ↗</button><p id="status" aria-live="polite"></p>
+    </div>
+  </section>
+</main>
+<footer><a href="#" class="logo">江仲池 <span>／</span> PORTFOLIO</a><a href="#">回到顶部 ↑</a></footer>
+<dialog id="player" aria-labelledby="video-title"><div class="dialog-head"><h3 id="video-title"></h3><button aria-label="关闭播放器" id="close" type="button">✕</button></div><video controls playsinline preload="metadata"></video><p id="video-desc"></p><p id="video-error" role="status" hidden>暂时无法播放。请检查视频链接，或<a id="video-link" target="_blank" rel="noopener">打开视频地址</a>。</p></dialog></body></html>
